@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.user-view-adult {
+  background-color: antiquewhite;
+  padding: 8px;
+  border: 1px solid black;
+}
+
+.user-view-child {
+  background-color: burlywood;
+  padding: 8px;
+  border: 1px solid black;
+}
+
+.toggle-view-on {
+  background-color: green;
+  color: white;
+  font-size: xx-large;
+  font-weight: bold;
+  padding: 32px;
+}
+
+.toggle-view-off {
+  background-color: red;
+  color: white;
+  font-size: xx-large;
+  font-weight: bold;
+  padding: 32px;
+}
